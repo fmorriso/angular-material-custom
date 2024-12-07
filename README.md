@@ -5,12 +5,7 @@
 ## Change History
 | Date       | Description                                               |
 |:-----------|:----------------------------------------------------------|
-| 2023-04-24 | Initial creation using Angular 15.2.8                     |
-| 2023-04-24 | added @angular/material 15.2.8 in branch angular-material |
-| 2024-12-07 | upgrade to Angular 16 and Angular/Material 16             |
-| 2024-12-07 | upgrade to Angular 17 and Angular/Material 17             |
-| 2024-12-07 | upgrade to Angular 18 and Angular/Material 18             |
-| 2024-12-07 | upgrade to Angular 19 and Angular/Material 19             |
+| 2023-12-07 | Initial creation using Angular 19                         |
 
 
 ## References
