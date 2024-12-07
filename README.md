@@ -3,13 +3,15 @@
 
 
 ## Change History
-| Date       | Description                                               |
-|:-----------|:----------------------------------------------------------|
-| 2024-12-07 | Initial creation using Angular 19                         |
+| Date       | Description                                 |
+|:-----------|:--------------------------------------------|
+| 2024-12-07 | Initial creation using Angular 19           |
+| 2024-12-07 | Add Angular/Material 19 custom installation |
 
 
 ## References
 * [Exploring Material 3 Design With Angular Material](https://angular-material.dev/articles/angular-material-3)
+* [Angular Material Schematics](https://material.angular.io/guide/schematics)
 * [How To Use Reactive Forms in Angular](https://www.digitalocean.com/community/tutorials/angular-reactive-forms-introduction)
 * [An Introduction to Angular Material Form Fields](https://medium.com/ngconf/an-introduction-to-angular-material-form-fields-5828b92d3a3c)
 
